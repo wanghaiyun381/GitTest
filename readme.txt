@@ -11,3 +11,5 @@
 
 修改master下的readme.txt文件
 上行修改已经提交到conflict1的分支下，这次在master下进行修改
+测试git如何解决冲突
+
